@@ -3,6 +3,7 @@
 ### Education
 
 ### Certificates
+img: assets/certificate/Obakeng Mokoya - Intro to Machine learning.png
 
 ### Work Experience
 
