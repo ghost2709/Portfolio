@@ -5,6 +5,5 @@
 ### Certificates
 
 ### Work Experience
- 
 
 ### Projects
